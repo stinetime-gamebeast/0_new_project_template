@@ -13,4 +13,4 @@ There are three key components to this project structure:
 2. **src**
     * .py files containing important/utility functions
 3. **notebooks**
-    * .ipynb files which import data/src functions to visualize exploratory analysis
+    * .ipynb files which import data + src functions to visualize exploratory analysis
